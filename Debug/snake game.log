@@ -1,0 +1,137 @@
+﻿Build started 5/5/2020 4:50:24 AM.
+     1>Project "C:\Users\ZYZOOM - TEAM\documents\visual studio 2013\Projects\snake game\snake game\snake game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(78): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(275): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(276): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(389): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(396): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(407): warning C4305: 'argument' : truncation from 'int' to 'bool'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(412): warning C4305: 'argument' : truncation from 'int' to 'bool'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(539): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(564): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(571): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(577): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(583): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(591): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(596): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(639): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(645): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(650): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(655): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(675): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(676): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(681): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(707): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(867): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(895): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(922): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(951): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1100): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1125): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1132): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1138): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1144): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1152): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1157): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1200): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1206): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1211): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1216): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1236): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1237): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1242): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1266): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1425): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1453): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1480): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1509): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1651): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1677): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1684): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1690): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1696): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1704): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1709): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1752): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1758): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1763): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1768): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1788): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1789): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1794): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1818): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(1978): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2006): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2033): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2059): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2205): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2230): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2237): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2243): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2249): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2257): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2262): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2305): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2311): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2316): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2321): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2341): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2342): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2371): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2531): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2559): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2586): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+     1>c:\users\zyzoom - team\documents\visual studio 2013\projects\snake game\snake game\source.cpp(2615): warning C4996: 'sf::Text::setColor': was declared deprecated
+                 c:\users\zyzoom - team\documents\visual studio 2013\projects\sfml-2.4.2\include\sfml\graphics\text.hpp(177) : see declaration of 'sf::Text::setColor'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ZYZOOM - TEAM\documents\visual studio 2013\Projects\snake game\Debug\snake game.exe" /INCREMENTAL /NOLOGO "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-main-d.lib" "sfml-system-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ZYZOOM - TEAM\documents\visual studio 2013\Projects\snake game\Debug\snake game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ZYZOOM - TEAM\documents\visual studio 2013\Projects\snake game\Debug\snake game.lib" /MACHINE:X86 Debug\Source.obj
+         snake game.vcxproj -> C:\Users\ZYZOOM - TEAM\documents\visual studio 2013\Projects\snake game\Debug\snake game.exe
+     1>Done Building Project "C:\Users\ZYZOOM - TEAM\documents\visual studio 2013\Projects\snake game\snake game\snake game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.03
